@@ -19,5 +19,5 @@ HTML | CSS | JavaScript | Firebase | Chart.js | Netlify
 ![](screenshot.png)
 
 ## 📌 Live URL
-[Visit Mood Diary App](https://your-netlify-link.netlify.app)
+https://vishakhabtcsai26.github.io/virtual-mood-diary/
 
