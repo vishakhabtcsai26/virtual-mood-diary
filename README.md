@@ -19,5 +19,5 @@ HTML | CSS | JavaScript | Firebase | Chart.js | Netlify
 ![](screenshot.png)
 
 ## 📌 Live URL
-https://vishakhabtcsai26.github.io/virtual-mood-diary/
+https://github.com/vishakhabtcsai26/buddy-diary.git
 
