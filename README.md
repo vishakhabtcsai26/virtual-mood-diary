@@ -21,6 +21,5 @@ HTML | CSS | JavaScript | Firebase | Chart.js | Netlify
 
 
 
-## 📌 Live URL
-https://github.com/vishakhabtcsai26/buddy-diary.git
+
 
