@@ -1,9 +1,10 @@
 # virtual-mood-diary
-Full-stack emotion tracking diary using Firebase, Chart.js, and JavaScript
+Virtual Mood Diary - Your AI Companion for Daily Emotional & Personal Wellness 🌸
+Apne emotions ko samjhiye, daily wellness track kariye, aur AI ke saath emotional support paaiye!
 
-# Virtual Mood Diary 🧠💖
+💬 About
+Virtual Mood Diary ek beautifully designed AI-powered React web app hai jo aapko daily emotional reflection, self-care habits tracking, aur personalized emotional support provide karta hai. Specially designed for real-life emotional wellness - especially helpful for managing day-to-day moods aur routines.
 
-A full-stack web app for tracking emotions daily, visualizing mood patterns, and storing personal mood logs securely using Firebase.
 
 ## 💡 Features
 - Emotion logging form (emoji/text-based)
