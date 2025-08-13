@@ -22,4 +22,12 @@ HTML | CSS | JavaScript | Firebase | Chart.js | Netlify
 
 
 
+📱 Usage
+Select Your Mood - Choose from expressive emojis or type how you feel
+Get AI Support - Receive personalized emotional guidance
+Track Self-Care - Log your daily wellness activities
+Monitor Progress - View your wellness score and mood history
+🎯 Vision
+"Let your feelings breathe. Your AI is here to listen, support, and uplift you — every single day."
 
+Yeh app real human emotions ke liye bana hai, daily emotional wellbeing support karne ke liye.
